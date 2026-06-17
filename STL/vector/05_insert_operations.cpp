@@ -25,7 +25,7 @@ int main() {
     // adds at last
 
     // 5. insert multiple copies at position
-    v.insert(v.begin() + 1, 3, 50);  
+    v.insert(v.begin() + 1, 3, 50);
     // insert 50, 50, 50 at index 1
 
     // 6. insert from another vector (range insert)
